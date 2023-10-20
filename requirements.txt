@@ -1,0 +1,7 @@
+### dependency
+streamlit
+pandas
+pickle
+requests
+### local packages -
+-e . 
